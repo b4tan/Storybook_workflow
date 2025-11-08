@@ -1,5 +1,5 @@
 # Storyteller CLI – System Design Overview
-
+Completed feature ~ 3 hours
 ## High-Level Flow
 
 1. User sends a message.
